@@ -2,6 +2,16 @@
 
 CreatorIQ is a Python + Streamlit prototype for discovering creators, filtering by audience size and content relevance, enriching public contact data, generating personalized outreach drafts, and logging safe outreach simulations.
 
+
+## Demo video
+
+**CreatorIQ product demonstration (4 minutes 14 seconds):** [Watch the demo on Google Drive](https://drive.google.com/file/d/1m6LWF3JEJhwXgB9-RYpMe5M5uCGpQlvq/view?usp=sharing)
+
+The screen-recorded walkthrough demonstrates the dashboard, creator discovery and qualification, personalized email and Instagram DM drafts, email simulation, manual-ready social outreach, and the activity tracker. No voiceover is included. Email is simulated only; no email is delivered, and Instagram messages are not automatically sent.
+
+For access, use the Google Drive link with **Anyone with the link — Viewer** permissions.
+
+
 ## What's included
 
 - Streamlit dashboard with Overview, Discover & Qualify, Outreach Studio, and Activity Tracker tabs.
@@ -162,12 +172,3 @@ The optional LLM path uses the OpenAI Python SDK with `gpt-4o-mini` by default (
 ## Requirement traceability and demo
 
 See [`docs/requirement_traceability.md`](docs/requirement_traceability.md) for a requirement-by-requirement implementation map, [`docs/demo_walkthrough.md`](docs/demo_walkthrough.md) for a reproducible local demo sequence, and [`docs/demo_evidence/README.md`](docs/demo_evidence/README.md) for screenshots captured from the locally running four-tab app.
-
-
-## Demo video
-
-**CreatorIQ product demonstration (4 minutes 14 seconds):** [Watch the demo on Google Drive](https://drive.google.com/file/d/1m6LWF3JEJhwXgB9-RYpMe5M5uCGpQlvq/view?usp=sharing)
-
-The screen-recorded walkthrough demonstrates the dashboard, creator discovery and qualification, personalized email and Instagram DM drafts, email simulation, manual-ready social outreach, and the activity tracker. No voiceover is included. Email is simulated only; no email is delivered, and Instagram messages are not automatically sent.
-
-For access, use the Google Drive link with **Anyone with the link — Viewer** permissions.

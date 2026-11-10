@@ -1,4 +1,4 @@
-# CreatorIQ — Edxso AI Engineer Intern Assignment
+# CreatorIQ — Edxso AI Engineer Intern Assignment 1
 
 CreatorIQ is a Python + Streamlit prototype for discovering creators, filtering by audience size and content relevance, enriching public contact data, generating personalized outreach drafts, and logging safe outreach simulations.
 

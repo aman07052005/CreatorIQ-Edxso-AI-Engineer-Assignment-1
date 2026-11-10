@@ -9,8 +9,6 @@ CreatorIQ is a Python + Streamlit prototype for discovering creators, filtering 
 
 The screen-recorded walkthrough demonstrates the dashboard, creator discovery and qualification, personalized email and Instagram DM drafts, email simulation, manual-ready social outreach, and the activity tracker. No voiceover is included. Email is simulated only; no email is delivered, and Instagram messages are not automatically sent.
 
-For access, use the Google Drive link with **Anyone with the link — Viewer** permissions.
-
 
 ## What's included
 

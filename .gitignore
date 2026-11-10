@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.env
+*.py[cod]
+data/outreach.db
+data/outreach.db-shm
+data/outreach.db-wal
+
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
